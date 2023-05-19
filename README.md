@@ -1,5 +1,3 @@
-[I am beginner iOS Developer]
-
 <h1 align="center">Hi there 👋, I'm Aleksandra Savchuk</h1>
 <h3 align="center">Beginner iOS Developer</h3>
 
