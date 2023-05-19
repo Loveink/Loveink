@@ -12,7 +12,4 @@ I'm from Moscow, Russia. Learning Swift from 2022. Studied at the Netology onlin
 * 💻 CocoaPods  / Firebase / JSON
 
 ## Certificates
-<a  target="_blanck"><img src="https://github.com/Loveink/iAmAleksa/blob/main/диплом%20нетология.pdf" alt="netology" width = "240" height="180" border="10" /></a>
-<!--<a  target="_blanck"><img src="https://github.com/Loveink/iAmAleksa/blob/main/диплом%20нетология%C2%A02.jpg" alt="netology" width = "240" height="180" border="10" /></a>-->
-<!--<a href="https://swiftbook.org/" target="_blanck"><img src="https://github.com/AlexeyIsMyName/AlexeyIsMyName/blob/main/Certificate_4212.jpg" alt="swiftbook.org" width = "240" height="180" border="10" /></a>-->
-<!--<a href="https://stepik.org/cert/209735" target="_blanck"><img src="https://github.com/AlexeyIsMyName/AlexeyIsMyName/blob/main/stepik-certificate-yandex.png" alt="yandex_academy" width = "240" height="180" border="10" /></a>-->
+<a href="https://github.com/Loveink/iAmAleksa/blob/main/диплом%20нетология.pdf" target="_blanck"><img src="https://github.com/Loveink/iAmAleksa/blob/main/certificate.pdf" alt="netology.org" width = "240" height="180" border="10" /></a>
