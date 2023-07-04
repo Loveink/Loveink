@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aleksandra Savchuk</h1>
 <h3 align="center">Beginner iOS Developer</h3>
 
-I'm from Moscow, Russia. Learning Swift from 2022. Studied at the Netology online school(https://netology.ru/programs/ios-developer) and Angela Yu Bootcamp (https://www.udemy.com/course/ios-13-app-development-bootcamp). Finish Swift marathon 7.0 in top 5 participants. Now I'm running Swift marathon 8.0
+I'm from Moscow, Russia. Learning Swift from 2022. Studied at the Netology online school(https://netology.ru/programs/ios-developer) and Angela Yu Bootcamp (https://www.udemy.com/course/ios-13-app-development-bootcamp). Finish Swift marathon 7.0 (https://t.me/swiftmarathon) in top 5 participants. Now I'm running Swift marathon 8.0
 
 ## Skills and Experience
 * 🦜 Swift
