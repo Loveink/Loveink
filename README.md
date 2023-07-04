@@ -6,8 +6,8 @@ I'm from Moscow, Russia. Learning Swift from 2022. Studied at the Netology onlin
 ## Skills and Experience
 * 🦜 Swift
 * 🔨 Xcode
-* 📱 iOS SDK, Core Data
-* 💻 CocoaPods  / Firebase / JSON
+* 📱 iOS SDK, Core Data, Realm
+* 💻 CocoaPods / SPM / Firebase / JSON
 
 ## Certificates
 <a href="https://github.com/Loveink/iAmAleksa/blob/main/диплом%20нетология.pdf" target="_blanck"><img src="https://github.com/Loveink/iAmAleksa/blob/main/нетология.png" alt="netology.org" width = "240" height="180" border="10" /></a>
