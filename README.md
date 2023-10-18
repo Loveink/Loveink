@@ -12,4 +12,4 @@ I'm from Moscow, Russia. Learning Swift from 2022. Studied at the Netology onlin
 ## Certificates
 <a href="https://github.com/Loveink/iAmAleksa/blob/main/диплом%20нетология.pdf" target="_blanck"><img src="https://github.com/Loveink/iAmAleksa/blob/main/нетология.png" alt="netology.org" width = "240" height="180" border="10" /></a>
 <a href="https://github.com/Loveink/Loveink/blob/main/Certificate%20SM%207.0.pdf" target="_blanck"><img src="https://github.com/Loveink/Loveink/blob/main/сертификат%20свифт%20марафон.png" alt="netology.org" width = "180" height="240" border="10" /></a>
-<a href="https://github.com/Loveink/Loveink/blob/main/Certificate%20SM%207.0.pdf" target="_blanck"><img src="https://github.com/Loveink/Loveink/blob/main/сертификат%20свифт%20марафон.png" alt="netology.org" width = "180" height="240" border="10" /></a>
+<a href="https://github.com/Loveink/Loveink/blob/main/Certificate%20TL.pdf" target="_blanck"><img src="https://github.com/Loveink/Loveink/blob/main/Certificate%20TL.pdf" alt="netology.org" width = "180" height="240" border="10" /></a>
