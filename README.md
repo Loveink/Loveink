@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aleksandra Savchuk</h1>
-<h3 align="center">Beginner iOS Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F700E5&background=FFFFFF00&vCenter=true&multiline=true&random=false&width=700&lines=Hi+there+%F0%9F%91%8B%2C++I'm+Aleksandra+Savchuk)](https://git.io/typing-svg)
 
 I'm from Moscow, Russia. Learning Swift from 2022. Studied at the Netology online school(https://netology.ru/programs/ios-developer) and Angela Yu Bootcamp (https://www.udemy.com/course/ios-13-app-development-bootcamp). Finish Swift marathon 7.0 (https://t.me/dev_rush) in top 5 participants. Now I'm mentor and administrator in Swift marathon by DevRush
 
