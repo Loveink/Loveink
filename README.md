@@ -12,6 +12,7 @@ I'm from Moscow, Russia. Learning Swift from 2022. Studied at the Netology onlin
 <a href="https://github.com/Loveink/iAmAleksa/blob/main/диплом%20нетология.pdf" target="_blanck"><img src="https://github.com/Loveink/iAmAleksa/blob/main/нетология.png" alt="netology.org" width = "240" height="180" border="10" /></a>
 <a href="https://github.com/Loveink/Loveink/blob/main/Certificate%20SM%207.0.pdf" target="_blanck"><img src="https://github.com/Loveink/Loveink/blob/main/сертификат%20свифт%20марафон.png" alt="netology.org" width = "180" height="240" border="10" /></a>
 <a href="https://github.com/Loveink/Loveink/blob/main/Certificate%20TL.pdf" target="_blanck"><img src="https://github.com/Loveink/Loveink/blob/main/Certificate%20T8.0.png" alt="Swift_8.0" width = "240" height="180" border="10" /></a>
+<a href="https://github.com/Loveink/Loveink/blob/main/Certificate%20TL.pdf" target="_blanck"><img src="[https://github.com/Loveink/Loveink/blob/main/Certificate%20T8.0.png](https://github.com/Loveink/Loveink/blob/main/SM002.jpeg)" alt="Swift_X" width = "240" height="180" border="10" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Loveink)](https://github.com/ryo-ma/github-profile-trophy)
 
